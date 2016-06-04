@@ -1,0 +1,53 @@
+# --- General options --- #
+title: EULex.NET
+description: EULex library to access EU legal information
+url: http://eulex.net
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About: "about"
+  Download: "download"
+  News: "news"
+  Documentation: "documentation"
+  Contribute: "contribute"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/images/avatar-icon.png"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Bertrand Lorentz
+  email: "bertrand.lorentz@gmail.com"
+  github: bl8
+  twitter: bl8
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: false
+  email: false
+  twitter: true
+  github: true
+  linkedin: false
+  stackoverflow: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "EULex.NET"
+
+# --- Misc --- #
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-7894075-3"
+
+# Output options (more information on Jekyll's site)
+permalink: pretty
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
