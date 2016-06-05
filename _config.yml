@@ -1,6 +1,10 @@
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # --- General options --- #
 title: EULex.NET
-description: EULex library to access EU legal information
+description: Cross platform, open source .NET library to access EU legal data
 url: http://eulex.net
 
 repository: EULexNET/EULex.NET
