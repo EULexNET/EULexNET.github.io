@@ -26,6 +26,8 @@ released under the MIT license and Copyright 2016 João Simões.
 This web site is based on the [beautiful-jekyll](http://deanattali.com/beautiful-jekyll/) theme,
 available under the MIT license.
 
+The § logo is "[Paragraph](https://thenounproject.com/term/paragraph/379690/)" created by Veronika Krpciarova from the Noun Project, and licensed under [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/us/).
+
 ## MIT license
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
