@@ -541,6 +541,9 @@ table tr td :last-child {
 }
 
 /* --- Homepage --- */
+#features {
+  margin-top: 15px;
+}
 .features-item {
   margin-bottom: 10px;
 }
