@@ -5,6 +5,39 @@ subtitle: Cross platform, open source .NET library to access EU legal data
 show-avatar : true
 ---
 
+<div id="features">
+  <div class="row">
+    <div class="col-md-6">
+      <ul class="fa-ul">
+        <li class="features-item">
+          <span class="fa fa-li fa-cogs fa-lg"></span>EULex.NET provide an API for European Union legal data available on the <a href="http://eur-lex.europa.eu">EUR-Lex web site</a>
+          </li>
+        <li class="features-item">
+          <span class="fa fa-li fa-github fa-lg"></span>EULex.NET is open source and is <a href="about/#license">free for any use</a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <ul class="fa-ul">
+        <li class="features-item">
+          <span class="fa fa-li fa-android fa-lg"></span> EULex.NET works on multiple platforms, desktop and mobile.
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<h2>Usage</h2>
+
+<ul>
+  <li>Register to use the EUR-Lex web service by following the <a href="http://eur-lex.europa.eu/content/help/faq/intro.html#help18">procedure</a> described on their web site.</li>
+  <li>Add the <a href="https://www.nuget.org/packages/EULex/">NuGet package</a> to your project.</li>
+  <li>You can now search and retrieve metadata using the EULex.NET API :
+  {% capture usage-include %}{% include usage.md %}{% endcapture %}
+  {{ usage-include | markdownify }}
+  </li>
+</ul>
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
