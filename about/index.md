@@ -5,6 +5,8 @@ title: About EULex.NET
 
 EULex.NET is a cross-platform, open source .NET library to retrieve legal data available on the [EUR-Lex](http://eur-lex.europa.eu) web site.
 
+It's a [Portable Class Library](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/pcl/introduction_to_portable_class_libraries/) written in C#. It runs with the .NET Framework or Mono, on most of the operating systems you can think of: Windows, OSX, Linux, Android and iOS.
+
 ## Disclaimer
 
 The EULex.NET project is not affiliated with or endorsed by the European Commission or the Publications Office of the European Union.
