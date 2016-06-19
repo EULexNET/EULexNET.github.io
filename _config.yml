@@ -15,7 +15,6 @@ repository: EULexNET/EULex.NET
 navbar-links:
   About: "about"
   Download: "download"
-  News: "news"
   Documentation: "documentation"
   Contribute: "contribute"
 
