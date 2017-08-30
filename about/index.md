@@ -5,7 +5,7 @@ title: About EULex.NET
 
 EULex.NET is a cross-platform, open source .NET library to retrieve legal data available on the [EUR-Lex](http://eur-lex.europa.eu) web site.
 
-It's a [Portable Class Library](https://developer.xamarin.com/guides/cross-platform/application_fundamentals/pcl/introduction_to_portable_class_libraries/) written in C#. It runs with the .NET Framework or Mono, on most of the operating systems you can think of: Windows, OSX, Linux, Android and iOS.
+It's written in C# and targets [.NET Standard 1.1](https://docs.microsoft.com/en-us/dotnet/standard/net-standard), so it runs with the .NET Framework (version 4.5 or above), Mono (version 4.6 or above), or .NET Core (version 1.0 or above). This means you can use it on most of the operating systems you can think of: Windows, OSX, Linux, Android and iOS.
 
 ## Disclaimer
 
