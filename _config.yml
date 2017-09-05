@@ -5,7 +5,7 @@ plugins:
 # --- General options --- #
 title: EULex.NET
 description: Cross platform, open source .NET library to access EU legal data
-url: http://eulex.net
+url: https://eulex.net
 
 repository: EULexNET/EULex.NET
 
