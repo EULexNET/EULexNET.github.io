@@ -3,7 +3,7 @@ layout: page
 title: About EULex.NET
 ---
 
-EULex.NET is a cross-platform, open source .NET library to retrieve legal data available on the [EUR-Lex](http://eur-lex.europa.eu) web site.
+EULex.NET is a cross-platform, open source .NET library to retrieve legal data available on the [EUR-Lex](https://eur-lex.europa.eu) web site.
 
 It's written in C# and targets [.NET Standard 1.1](https://docs.microsoft.com/en-us/dotnet/standard/net-standard), so it runs with the .NET Framework (version 4.5 or above), Mono (version 4.6 or above), or .NET Core (version 1.0 or above). This means you can use it on most of the operating systems you can think of: Windows, OSX, Linux, Android and iOS.
 
@@ -11,24 +11,24 @@ It's written in C# and targets [.NET Standard 1.1](https://docs.microsoft.com/en
 
 The EULex.NET project is not affiliated with or endorsed by the European Commission or the Publications Office of the European Union.
 
-The information on the EUR-Lex web site is subject to a [disclaimer](http://eur-lex.europa.eu/content/legal-notice/legal-notice.html),
-and a [copyright notice](http://eur-lex.europa.eu/content/legal-notice/legal-notice.html#droits).
+The information on the EUR-Lex web site is subject to a [disclaimer](https://eur-lex.europa.eu/content/legal-notice/legal-notice.html),
+and a [copyright notice](https://eur-lex.europa.eu/content/legal-notice/legal-notice.html#droits).
 
 If you have questions directly related to the data made available on EUR-Lex, please
-[contact the EUR-Lex team](http://eur-lex.europa.eu/contact.html)
+[contact the EUR-Lex team](https://eur-lex.europa.eu/contact.html)
 
 ## License
 
-EULex.NET is [free/open source software](http://www.gnu.org/philosophy/free-sw.html) released under the MIT license.
+EULex.NET is [free/open source software](https://www.gnu.org/philosophy/free-sw.html) released under the MIT license.
 EULex.NET is Copyright 2016 Bertrand Lorentz and its other contributors where noted in the source code.
 
 EULex.NET contains code from [SimpleSOAPClient](https://github.com/gravity00/SimpleSOAPClient),
 released under the MIT license and Copyright 2016 João Simões.
 
-This web site is based on the [beautiful-jekyll](http://deanattali.com/beautiful-jekyll/) theme,
+This web site is based on the [beautiful-jekyll](https://deanattali.com/beautiful-jekyll/) theme,
 available under the MIT license.
 
-The § logo is "[Paragraph](https://thenounproject.com/term/paragraph/379690/)" created by Veronika Krpciarova from the Noun Project, and licensed under [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0/us/).
+The § logo is "[Paragraph](https://thenounproject.com/term/paragraph/379690/)" created by Veronika Krpciarova from the Noun Project, and licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/us/).
 
 ## MIT license
 
