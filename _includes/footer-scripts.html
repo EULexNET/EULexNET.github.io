@@ -12,12 +12,12 @@
 
 {% if page.js %}
   {% for js in page.js %}
-    <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
+    <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
 
 {% if layout.common-js %}
   {% for js in layout.common-js %}
-    <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
+    <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}

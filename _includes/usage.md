@@ -10,6 +10,7 @@ using (var client = new Client (username, password)) {
 
     var response = await client.DoQueryAsync (request);
 
-    var title = response.Results [0].Content.Notice.Expression?.Title [0].Value;
+    var notice = response.Results[0].Content.Notice;
+    var title = notice.Expression?.Title[0].Value;
 }
 ```
