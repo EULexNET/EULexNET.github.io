@@ -48,9 +48,6 @@ url-pretty: "EULex.NET"
 
 # --- Misc --- #
 
-# Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-7894075-3"
-
 # Output options (more information on Jekyll's site)
 permalink: pretty
 
