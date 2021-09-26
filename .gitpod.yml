@@ -1,0 +1,12 @@
+tasks:
+  - init: bundle config set --local path '/workspace/.rvm' && bundle install
+    command: bundle exec jekyll serve
+
+ports:
+  - port: 4000
+    onOpen: open-browser
+
+github:
+  prebuilds:
+    master: true
+    branches: true
