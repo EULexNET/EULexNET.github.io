@@ -2,5 +2,5 @@
   "image": "mcr.microsoft.com/devcontainers/jekyll",
   "features": {
   },
-  "postStartCommand": "bundle install && bundle exec jekyll serve"
+  "postCreateCommand": "sh ./.devcontainer/post-create.sh"
 }
