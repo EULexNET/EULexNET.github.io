@@ -31,14 +31,16 @@ author:
   email: "bertrand.lorentz@gmail.com"
   github: EULexNET
   twitter: bl8
+  mastodon: oc.todon.fr/@bl8
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: false
-  twitter: true
   github: true
+  twitter: true
+  mastodon: true
   linkedin: false
   stackoverflow: false
 
